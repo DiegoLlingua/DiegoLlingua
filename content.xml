@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260324180120LF7RDE</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202603241801201YIQ5L</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Del Lazarillo a nuestro entorno: comprender la desigualdad</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>De la novela picaresca a los retos del presente: una mirada crítica</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Diego García Solís</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje dirigida a 3º de ESO que, a partir de la lectura de La vida de Lazarillo de Tormes y de sus fortunas y adversidades, propone analizar la representación de la pobreza en el siglo XVI y compararla con la realidad actual. El alumnado desarrollará una mirada crítica sobre la desigualdad, vinculando literatura y contexto social, y elaborará productos digitales (infografía interactiva y podcast/vídeo/breakout) con finalidad comunicativa. La propuesta se alinea con los ODS 1 y 10 y fomenta la competencia lingüística, social y digital mediante metodologías activas.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1774279872577</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>2aae0bfb-d55f-47b6-84d9-3f5c3fd89a45</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>2aae0bfb-d55f-47b6-84d9-3f5c3fd89a45</odePageId>
+      <odeBlockId>block-1774279904469-ty4p92dqr</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>2aae0bfb-d55f-47b6-84d9-3f5c3fd89a45</odePageId>
+          <odeBlockId>block-1774279904469-ty4p92dqr</odeBlockId>
+          <odeIdeviceId>idevice-1774279904467-k5qx56ngk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Situación de aprendizaje dirigida a 3º de ESO que, a partir de la lectura de La vida de Lazarillo de Tormes y de sus fortunas y adversidades, propone analizar la representación de la pobreza en el siglo XVI y compararla con la realidad actual. El alumnado desarrollará una mirada crítica sobre la desigualdad, vinculando literatura y contexto social, y elaborará productos digitales (infografía interactiva y podcast/vídeo/breakout) con finalidad comunicativa. La propuesta se alinea con los ODS 1 y 10 y fomenta la competencia lingüística, social y digital mediante metodologías activas.</p>
+<p></p>
+<p> <br />Etapa educativa y nivel al que se dirige<br />Educación Secundaria Obligatoria, 3º de ESO.</p>
+<p> <br />Áreas, materias y/o módulos implicados<br />Materia principal: Lengua Castellana y Literatura.<br />Materias vinculadas: Geografía e Historia (contexto socioeconómico), Educación en Valores Cívicos y Éticos (desigualdad y justicia social) y Tecnología (competencia digital y producción de contenidos).</p>
+<p> <br />Agrupamientos y organización espacial<br />Se empleará una organización flexible basada en los principios del Diseño Universal para el Aprendizaje (DUA), combinando distintos tipos de agrupamiento:</p>
+<p>Trabajo individual para la lectura comprensiva y reflexión.<br />Trabajo en parejas para el análisis de textos y contraste de ideas.<br />Trabajo cooperativo en grupos heterogéneos (3–4 alumnos) para la elaboración de productos.<br />Gran grupo para debates, puesta en común y exposiciones.<br />Los espacios utilizados serán el aula ordinaria, el aula TIC o el uso de dispositivos móviles, y la biblioteca escolar como espacio de consulta.</p>
+<p> <br />Temporalización<br />La situación de aprendizaje se desarrollará en 8 sesiones de aproximadamente 50-55 minutos:</p>
+<p>Activación y contextualización.<br />2-3. Lectura y análisis de La vida de Lazarillo de Tormes y de sus fortunas y adversidades.<br />Investigación sobre la pobreza en la actualidad.<br />Comparación crítica entre pasado y presente.<br />6-7. Diseño y elaboración de productos.<br />Presentación, evaluación y reflexión final.<br /> <br />Productos del alumnado<br />El alumnado desarrollará diversos productos a lo largo de la situación:</p>
+<p>Infografía interactiva (obligatoria):<br />Comparación entre la pobreza en el siglo XVI y en la actualidad. Incluirá elementos interactivos como enlaces, códigos QR o recursos multimedia.<br />Producto principal (a elegir):<br />Podcast narrativo, vídeo breve, breakout educativo o videojuego sencillo, en el que se aborde la temática de la pobreza desde una perspectiva crítica y comunicativa.<br />Productos intermedios:Tabla comparativa (pasado/presente).<br />Guion o escaleta del producto final.<br />Reflexión individual escrita sobre el aprendizaje realizado.<br /> <br />Herramientas tecnológicas y recursos</p>
+<p>Herramientas para el alumnado:</p>
+<p>Canva y Genially (infografías interactivas).<br />Audacity, Anchor o similares (podcast).<br />CapCut, Clipchamp o herramientas equivalentes (vídeo).<br />Herramientas para el docente:</p>
+<p>Plataforma educativa (Moodle, Teams o equivalente).<br />Presentaciones digitales (Genially, Canva).<br />Recursos complementarios:</p>
+<p>Datos estadísticos (INE).<br />Informes de organizaciones sociales (por ejemplo, Cáritas).<br />Biblioteca Virtual Miguel de Cervantes (textos literarios).<br />Material audiovisual divulgativo (canales educativos de YouTube).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774279904467-k5qx56ngk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Situación de aprendizaje dirigida a 3º de ESO que, a partir de la lectura de La vida de Lazarillo de Tormes y de sus fortunas y adversidades, propone analizar la representación de la pobreza en el siglo XVI y compararla con la realidad actual. El alumnado desarrollará una mirada crítica sobre la desigualdad, vinculando literatura y contexto social, y elaborará productos digitales (infografía interactiva y podcast/vídeo/breakout) con finalidad comunicativa. La propuesta se alinea con los ODS 1 y 10 y fomenta la competencia lingüística, social y digital mediante metodologías activas.</p>\n<p></p>\n<p> <br />Etapa educativa y nivel al que se dirige<br />Educación Secundaria Obligatoria, 3º de ESO.</p>\n<p> <br />Áreas, materias y/o módulos implicados<br />Materia principal: Lengua Castellana y Literatura.<br />Materias vinculadas: Geografía e Historia (contexto socioeconómico), Educación en Valores Cívicos y Éticos (desigualdad y justicia social) y Tecnología (competencia digital y producción de contenidos).</p>\n<p> <br />Agrupamientos y organización espacial<br />Se empleará una organización flexible basada en los principios del Diseño Universal para el Aprendizaje (DUA), combinando distintos tipos de agrupamiento:</p>\n<p>Trabajo individual para la lectura comprensiva y reflexión.<br />Trabajo en parejas para el análisis de textos y contraste de ideas.<br />Trabajo cooperativo en grupos heterogéneos (3–4 alumnos) para la elaboración de productos.<br />Gran grupo para debates, puesta en común y exposiciones.<br />Los espacios utilizados serán el aula ordinaria, el aula TIC o el uso de dispositivos móviles, y la biblioteca escolar como espacio de consulta.</p>\n<p> <br />Temporalización<br />La situación de aprendizaje se desarrollará en 8 sesiones de aproximadamente 50-55 minutos:</p>\n<p>Activación y contextualización.<br />2-3. Lectura y análisis de La vida de Lazarillo de Tormes y de sus fortunas y adversidades.<br />Investigación sobre la pobreza en la actualidad.<br />Comparación crítica entre pasado y presente.<br />6-7. Diseño y elaboración de productos.<br />Presentación, evaluación y reflexión final.<br /> <br />Productos del alumnado<br />El alumnado desarrollará diversos productos a lo largo de la situación:</p>\n<p>Infografía interactiva (obligatoria):<br />Comparación entre la pobreza en el siglo XVI y en la actualidad. Incluirá elementos interactivos como enlaces, códigos QR o recursos multimedia.<br />Producto principal (a elegir):<br />Podcast narrativo, vídeo breve, breakout educativo o videojuego sencillo, en el que se aborde la temática de la pobreza desde una perspectiva crítica y comunicativa.<br />Productos intermedios:Tabla comparativa (pasado/presente).<br />Guion o escaleta del producto final.<br />Reflexión individual escrita sobre el aprendizaje realizado.<br /> <br />Herramientas tecnológicas y recursos</p>\n<p>Herramientas para el alumnado:</p>\n<p>Canva y Genially (infografías interactivas).<br />Audacity, Anchor o similares (podcast).<br />CapCut, Clipchamp o herramientas equivalentes (vídeo).<br />Herramientas para el docente:</p>\n<p>Plataforma educativa (Moodle, Teams o equivalente).<br />Presentaciones digitales (Genially, Canva).<br />Recursos complementarios:</p>\n<p>Datos estadísticos (INE).<br />Informes de organizaciones sociales (por ejemplo, Cáritas).<br />Biblioteca Virtual Miguel de Cervantes (textos literarios).<br />Material audiovisual divulgativo (canales educativos de YouTube).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774279991669-qde9ily57</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774279991669-qde9ily57</odePageId>
+      <odeBlockId>block-1774279994616-hyq3r0us6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774279991669-qde9ily57</odePageId>
+          <odeBlockId>block-1774279994616-hyq3r0us6</odeBlockId>
+          <odeIdeviceId>idevice-1774279994614-fkawsq09c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La SdA utiliza un texto clásico para analizar un problema estructural vigente: la pobreza. Se pretende que el alumnado:</p>
+<p>desarrolle conciencia social,<br />relacione literatura y realidad,<br />y produzca discursos con intención comunicativa real.<br />Impacto esperado:</p>
+<p>Mejora de la competencia crítica<br />Sensibilización social<br />Uso funcional de la literatura</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774279994614-fkawsq09c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La SdA utiliza un texto clásico para analizar un problema estructural vigente: la pobreza. Se pretende que el alumnado:</p>\n<p>desarrolle conciencia social,<br />relacione literatura y realidad,<br />y produzca discursos con intención comunicativa real.<br />Impacto esperado:</p>\n<p>Mejora de la competencia crítica<br />Sensibilización social<br />Uso funcional de la literatura</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774280347774-0tcdse1u3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Elementos curiculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curiculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774280347774-0tcdse1u3</odePageId>
+      <odeBlockId>block-1774280386932-nba6qtyf9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774280347774-0tcdse1u3</odePageId>
+          <odeBlockId>block-1774280386932-nba6qtyf9</odeBlockId>
+          <odeIdeviceId>idevice-1774280386931-cg44y0vja</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Competencias clave (síntesis)<br />CCL: comunicación lingüística<br />CPSAA: aprendizaje autónomo<br />CC: ciudadanía<br />CD: digital<br />CCEC: conciencia cultural<br /> <br />Competencias específicas (Lengua Castellana y Literatura)<br />Interpretar textos literarios considerando contexto<br />Producir textos adecuados a diferentes situaciones<br />Analizar críticamente discursos<br />Buscar y seleccionar información fiable<br /> <br />Saberes básicos<br />La novela picaresca<br />Contexto histórico del siglo XVI<br />Narrador y punto de vista<br />Recursos expresivos (ironía, crítica social)<br />Estrategias de investigación<br />Texto expositivo y argumentativo<br /> <br />Criterios de evaluación<br />Interpreta textos con sentido crítico<br />Relaciona literatura y realidad social<br />Produce textos coherentes y adecuados<br />Usa fuentes de forma responsable</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774280386931-cg44y0vja","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Competencias clave (síntesis)<br />CCL: comunicación lingüística<br />CPSAA: aprendizaje autónomo<br />CC: ciudadanía<br />CD: digital<br />CCEC: conciencia cultural<br /> <br />Competencias específicas (Lengua Castellana y Literatura)<br />Interpretar textos literarios considerando contexto<br />Producir textos adecuados a diferentes situaciones<br />Analizar críticamente discursos<br />Buscar y seleccionar información fiable<br /> <br />Saberes básicos<br />La novela picaresca<br />Contexto histórico del siglo XVI<br />Narrador y punto de vista<br />Recursos expresivos (ironía, crítica social)<br />Estrategias de investigación<br />Texto expositivo y argumentativo<br /> <br />Criterios de evaluación<br />Interpreta textos con sentido crítico<br />Relaciona literatura y realidad social<br />Produce textos coherentes y adecuados<br />Usa fuentes de forma responsable</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774280679780-wedm0b179</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774280679780-wedm0b179</odePageId>
+      <odeBlockId>block-1774280682551-m2ii6mig7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774280679780-wedm0b179</odePageId>
+          <odeBlockId>block-1774280682551-m2ii6mig7</odeBlockId>
+          <odeIdeviceId>idevice-1774280682550-gn1j6f6rj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se emplea Aprendizaje Basado en Proyectos (ABP):</p>
+<p>Pregunta guía real<br />Investigación + creación<br />Producto final con destinatario<br />Además:</p>
+<p>Aprendizaje cooperativo<br />Aprendizaje basado en problemas</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774280682550-gn1j6f6rj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se emplea Aprendizaje Basado en Proyectos (ABP):</p>\n<p>Pregunta guía real<br />Investigación + creación<br />Producto final con destinatario<br />Además:</p>\n<p>Aprendizaje cooperativo<br />Aprendizaje basado en problemas</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774280744504-edhctjnvr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Vinculación con programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774280744504-edhctjnvr</odePageId>
+      <odeBlockId>block-1774280747097-0nmc5vxqo</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774280744504-edhctjnvr</odePageId>
+          <odeBlockId>block-1774280747097-0nmc5vxqo</odeBlockId>
+          <odeIdeviceId>idevice-1774280747096-5ntb95n8e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>PLEI (Plan de Lectura): lectura significativa del Lazarillo<br />PAD (Atención a la Diversidad):adaptación de textos<br />variedad de productos<br />PDC (Diversificación):tareas competenciales<br />aprendizaje funcional</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774280747096-5ntb95n8e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>PLEI (Plan de Lectura): lectura significativa del Lazarillo<br />PAD (Atención a la Diversidad):adaptación de textos<br />variedad de productos<br />PDC (Diversificación):tareas competenciales<br />aprendizaje funcional</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774280935865-13367uq2c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774280935865-13367uq2c</odePageId>
+      <odeBlockId>block-1774280939508-v683t4sh3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774280935865-13367uq2c</odePageId>
+          <odeBlockId>block-1774280939508-v683t4sh3</odeBlockId>
+          <odeIdeviceId>idevice-1774280939507-mzy0vnfgz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Visita a biblioteca<br />Charla de ONG locaNiebla)l (Mar de </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774280939507-mzy0vnfgz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Visita a biblioteca<br />Charla de ONG locaNiebla)l (Mar de </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
